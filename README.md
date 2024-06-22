@@ -70,7 +70,7 @@ WHERE NOT department = 'Information Technology';
 
 
 <img src = "https://github.com/Henrik-Nordlund/Apply-filters-to-SQL-queries/blob/947cd6b2799336adbcbc48b28e0ab7e8ad44f7b6/Retrieve%20all%20employee%20not%20in%20IT.PNG"/>
-The snapshot covers a part of the list. The full list is of 161 employees.
+The snapshot covers a part of the list. The full list is of 161 employees.<br><br>
 
 <b>Summary</b><br>
 This project illustrates how filters can be applied to SQL queries, AND, OR and NOT to get more precise answers. I also used LIKE and the % sign to search for patterns in my searches.
